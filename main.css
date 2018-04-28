@@ -1,0 +1,39 @@
+/*
+body {
+    background-image: url('images/background.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    font: bold 65px georgia;
+    margin-top: 100px;
+}
+
+#ball {
+    cursor: pointer;
+}
+
+#message {
+    background-color: #321748;
+    color: white;
+    font: 16px arial;
+    width: 400px;
+    padding: 20px 30px;
+    margin: 40px auto;
+}
+
+.shakeRight {
+    margin-left: 10px;
+    margin-right: 0px;
+    transition: .1s; 
+}
+
+.shakeLeft {
+    margin-left: 0px;
+    margin-right: 10px;
+    transition: .1s; 
+}
+*/
